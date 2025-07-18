@@ -1,0 +1,16 @@
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\bin\Debug\Electricity ManageMent  System.exe
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\bin\Debug\Electricity ManageMent  System.pdb
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\bin\Debug\Electricity ManageMent  System.xml
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity_ManageMent__System.CALCULATION.resources
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity_ManageMent__System.CUSTOMER.resources
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity_ManageMent__System.Form1.resources
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity_ManageMent__System.LOGIN_ID.resources
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity_ManageMent__System.MAINFORM.resources
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity_ManageMent__System.METER.resources
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity_ManageMent__System.Resources.resources
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity_ManageMent__System.REGISTRATION.resources
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity ManageMent  System.vbproj.GenerateResource.Cache
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity ManageMent  System.exe
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity ManageMent  System.xml
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity ManageMent  System.pdb
+C:\Users\Aditya\Documents\Visual Studio 2010\Projects\Electricity ManageMent  System\Electricity ManageMent  System\obj\x86\Debug\Electricity_ManageMent__System.thanks.resources
